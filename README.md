@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# 掌上宿舍
 
-_Get started using GitHub in less than an hour._
+_关于掌上宿舍项目的相关结构（该项目仅用于课程学习交流，目前尚未完全实现）_
 
 </header>
 
@@ -18,47 +18,9 @@ _Get started using GitHub in less than an hour._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Finish
+## 实现平台
 
-_Congratulations, you've completed this course and joined the world of developers!_
+_微信开发者工具_
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
-
-Here's a recap of your accomplishments:
-
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
-
-### What's next?
-
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
-
-Check out these resources to learn more or get involved:
-
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+### 项目介绍
+宿舍关系是大学生活中不可忽视的一环。在新生入校或者更换校区时，我们希望能够通过该系统，能够基于对学生日常生活习惯的分析，将生活习惯相同的人分到一个宿舍，构建更加和谐的宿舍关系。并且构建起宿舍管理人员和学生的一个共同平台，方便宿舍管理人员在报修，查寝等方面的管理，以及为学生提前查看舍友、宿舍环境、提交换宿舍申请、缴纳电费等方面提供便利。
